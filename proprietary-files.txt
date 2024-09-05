@@ -606,3 +606,6 @@ vendor/etc/thermald-devices.conf
 # Vibrator firmware
 vendor/firmware/aw8697_haptic.bin
 vendor/firmware/aw8697_rtp_1.bin
+
+# Power-off charging daemon
+-bin/charger:bin/chargeonlymode
