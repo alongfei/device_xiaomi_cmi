@@ -30,3 +30,7 @@ vendor.audio.offload.buffer.size.kb=32
 # Display
 ro.surface_flinger.set_touch_timer_ms=200
 vendor.display.defer_fps_frame_count=2
+
+ro.droidx.chipset=Snapdragon 865
+ro.droidx.display_resolution=6.67" SUPER AMOLED 1080x2340
+ro.droidx.maintainer= Charon
